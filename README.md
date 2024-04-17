@@ -1,2 +1,2 @@
 # ImagesToPdf
-convert all images in a perticular directory to one pdf file
+convert all webp jpeg or jpg images in a perticular directory to one pdf file
