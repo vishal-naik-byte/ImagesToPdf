@@ -32,7 +32,7 @@ Install Ghostscript for PDF recovery:
 
 - On Ubuntu/Debian:
 
-    ```sudo apt-get install ghostscript```
+        sudo apt-get install ghostscript
 
 - On macOS:
 
