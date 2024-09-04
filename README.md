@@ -22,7 +22,7 @@
    ```
 2. Navigate to the project directory:
 
-```cd ImagesToPdf```
+    ```cd ImagesToPdf```
 
 Install the required Python dependencies:
 
@@ -35,6 +35,7 @@ Install Ghostscript for PDF recovery:
     ```sudo apt-get install ghostscript```
 
 - On macOS:
+
     ```brew install ghostscript```
 
 ## Usage:
