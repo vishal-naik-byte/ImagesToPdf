@@ -64,11 +64,11 @@ This will create output.pdf, which attempts to recover the contents from images.
 
 To convert images in the Documents directory:
 
-        python imageToPdf.py
+    python imageToPdf.py
 
 To recover a corrupted PDF:
 
-        bash join.sh
+    bash join.sh
 
 ## Contributing
 
