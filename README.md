@@ -22,11 +22,11 @@
    ```
 2. Navigate to the project directory:
 
-    ```cd ImagesToPdf```
+        cd ImagesToPdf
 
 Install the required Python dependencies:
 
-    pip install pillow
+        pip install pillow
 
 Install Ghostscript for PDF recovery:
 
@@ -36,7 +36,7 @@ Install Ghostscript for PDF recovery:
 
 - On macOS:
 
-    ```brew install ghostscript```
+        brew install ghostscript
 
 ## Usage:
 
@@ -46,7 +46,7 @@ Install Ghostscript for PDF recovery:
 
 2. Run the Python script to convert images to a PDF:
 
-    ```python imageToPdf.py```
+        python imageToPdf.py
 
 This will generate images1.pdf in the specified directory.
 
@@ -56,7 +56,7 @@ This will generate images1.pdf in the specified directory.
 
 2. Run the shell script to recover the corrupted PDF:
 
-    ```bash join.sh```
+        bash join.sh
 
 This will create output.pdf, which attempts to recover the contents from images.pdf and creates new file as recovered.pdf.
 
@@ -64,11 +64,11 @@ This will create output.pdf, which attempts to recover the contents from images.
 
 To convert images in the Documents directory:
 
-    python imageToPdf.py
+        python imageToPdf.py
 
 To recover a corrupted PDF:
 
-    bash join.sh
+        bash join.sh
 
 ## Contributing
 
