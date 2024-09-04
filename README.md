@@ -26,7 +26,7 @@
 
 Install the required Python dependencies:
 
-```pip install pillow```
+    pip install pillow
 
 Install Ghostscript for PDF recovery:
 
